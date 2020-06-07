@@ -10,3 +10,7 @@ __pycache__
 .cache
 epoch_*
 *.py[cod]
+*PARAMS*
+*.npy
+hist*
+output*
